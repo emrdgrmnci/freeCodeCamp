@@ -38,6 +38,14 @@ print("Hello ")
 print(x)
 ```
 
+To print string coalescing contants or variables use "\()" 
+```let hello = "Hello,"
+let world = "world!"
+
+print(hello, world)
+print("hello, \(world)")
+```
+
 
 
 # Version
